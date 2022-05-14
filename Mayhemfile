@@ -1,4 +1,4 @@
-project: MeshFix-V2.1
+project: meshfix
 target: MeshFix
 
 cmds:
