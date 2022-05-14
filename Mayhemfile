@@ -1,0 +1,5 @@
+project: MeshFix-V2.1
+target: MeshFix
+
+cmds:
+  - cmd: /MeshFix @@
